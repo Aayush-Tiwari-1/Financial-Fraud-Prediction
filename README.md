@@ -1,6 +1,5 @@
 # 📉 From Data to Detection: Building a Robust Financial Fraud Prediction Model
 
-**Project Contributors:** Kaustubh Pawar, Pratishtha Upadhyaya (RBA73), Dheeraj Zope (RBA75)[cite: 4]
 
 ## 🚀 Project Overview
 Fraud detection is a classic "needle in a haystack" problem. Legitimate transactions vastly outnumber fraudulent ones, which can hide fraud from basic machine learning models[cite: 4]. A model that misses fraud (low recall) results in direct financial loss and damages customer trust[cite: 4]. 
